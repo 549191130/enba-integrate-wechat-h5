@@ -1,0 +1,11 @@
+server:
+  port: 8888
+
+spring:
+  application:
+    name: @project.artifactId@
+
+enba:
+  mp:
+    app-id: wx232da6f537b9dae3
+    app-secret: 901ba7e07d714bc0a70da84005249d9d
